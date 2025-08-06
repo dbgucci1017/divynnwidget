@@ -6,7 +6,7 @@ import "react-datepicker/dist/react-datepicker.css";
 // Configure your Supabase client
 const supabase = createClient(
   'https://omwmybidzjuxfnlclqoo.supabase.co',
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...'
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9td215Ymlkemp1eGZubGNscW9vIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ0NTkwNDksImV4cCI6MjA3MDAzNTA0OX0.CD1JGqBKDo4nXw7cXcBmlBmeRBQO3pFMUTKMIyR6WwM'
 );
 
 function BookingWidget() {
